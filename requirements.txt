@@ -1,0 +1,17 @@
+click==8.0.1
+Flask==2.0.1
+Flask-Cors==3.0.10
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+MarkupSafe==2.0.1
+nltk==3.6.2
+numpy==1.21.1
+python-crfsuite==0.9.7
+regex==2021.7.6
+six==1.16.0
+sklearn-crfsuite==0.3.6
+tabulate==0.8.9
+tqdm==4.61.2
+Werkzeug==2.0.1
+gunicorn
