@@ -1,5 +1,5 @@
-from model.preprocess import origin_tokenize, make_poss, sent2features
-from model.postprocess import label_original_tokens, export_html
+from preprocess import origin_tokenize, make_poss, sent2features
+from postprocess import label_original_tokens, export_html
 
 import joblib
 
